@@ -1,4 +1,4 @@
-This is the repository for the implementation of Boyer-Moore Algorithm.
+This is a repository for the implementation of Boyer-Moore Algorithm.
 
 Developers:
 1) Andyclos A/L Boon Mee - 22300738
